@@ -16,7 +16,7 @@
         <failsafe.version>2.19.1</failsafe.version>
         <compiler.version>3.5.1</compiler.version>
         <enforcer.version>1.4.1</enforcer.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <assertj.version>3.5.1</assertj.version>
 
     </properties>
